@@ -23,7 +23,6 @@ body {
 			display: block;
 			margin-bottom: 10px;
 		}
-
 		/* Styling form-control input,
 		select, textarea */
 		.form-control input,
@@ -44,7 +43,6 @@ body {
 			display: inline-block;
 			width: auto;
 		}
-
 		/* Styling Button */
 		button {
 			background-color: #e1082c;
