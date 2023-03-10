@@ -11,13 +11,11 @@ body {
 			padding: 30px 20px;
 			box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
 		}
-
 		/* Styling form-control Class */
 		.form-control {
 			text-align: left;
 			margin-bottom: 25px;
 		}
-
 		/* Styling form-control Label */
 		.form-control label {
 			display: block;
@@ -35,7 +33,6 @@ body {
 			display: block;
 			width: 95%;
 		}
-
 		/* Styling form-control Radio
 		button and Checkbox */
 		.form-control input[type="radio"],
